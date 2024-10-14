@@ -63,7 +63,3 @@ node ./index.js clear-cache
 For more information on caching servers and implementation tips, check out:
 
 - [Roadmap to Caching Servers](https://roadmap.sh/projects/caching-server)
-
----
-
-This `README.md` now follows a similar style to the example you provided. Feel free to adjust any other details as needed!
