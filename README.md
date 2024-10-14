@@ -1,7 +1,3 @@
-Here's an updated version of the `README.md` following your requested format:
-
----
-
 # Caching Proxy Server
 
 A simple caching proxy server built with Node.js, Express, Axios, and NodeCache. The server forwards requests to an origin server and caches the responses to improve performance and reduce the load on the origin server.
